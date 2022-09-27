@@ -1,0 +1,22 @@
+body{
+  background-color: #9CB4CC;
+  text-align: center;
+}
+.socks{
+  border-top-style: solid;
+  border-left-style: groove;
+  border-style: solid;
+  border-color: #2C3639;
+  border-width: 3px;
+  border-radius: 180px;
+  height: 250px;
+  width: 300px;
+}
+
+.All{
+  background-color: #748DA6;
+}
+.p{
+  height: 400px;
+  width: 300px;
+}
